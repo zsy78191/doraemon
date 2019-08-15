@@ -7,17 +7,17 @@
 
 [ドラえもん のび太の牧場物語攻略wiki](https://gameranbu.jp/doraboku/)
 
- <amp-auto-ads type="adsense"
-                  data-ad-client="ca-pub-5834553078672615">
-    </amp-auto-ads>
-    <amp-ad width="100vw" height=320
-         type="adsense"
-         data-ad-client="ca-pub-5834553078672615"
-         data-ad-slot="4796938092"
-         data-auto-format="rspv"
-         data-full-width>
-      <div overflow></div>
-    </amp-ad>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 广告1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5834553078672615"
+     data-ad-slot="5156697025"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## 索引
 
