@@ -1,16 +1,5 @@
 * [封面](/)
 
-  <div>
-  <!-- 广告1 -->
-  <ins class="adsbygoogle"
-       style="display:block"
-       data-ad-client="ca-pub-5834553078672615"
-       data-ad-slot="5156697025"
-       data-ad-format="auto"
-       data-full-width-responsive="true"></ins>
-  </div>
-
-
 * 游戏资料
 	* [农作物](data/农作物.md '农作物列表')
 	* [动物](data/动物.md '动物')
