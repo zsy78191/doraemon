@@ -8,9 +8,6 @@
        data-ad-slot="5156697025"
        data-ad-format="auto"
        data-full-width-responsive="true"></ins>
-  <script>
-       (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
   </div>
 
 
