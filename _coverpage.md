@@ -10,6 +10,6 @@
     position: absolute;
     left: 0;
     right: 0;
-    bottom: 10px;
+    /*bottom: 10px;*/
 "><a target="_blank" href="//www.beian.miit.gov.cn">苏ICP备18064390号 </a>©
     <span itemprop="copyrightYear">2018</span></div>
