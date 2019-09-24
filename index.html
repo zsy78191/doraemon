@@ -31,18 +31,37 @@
 <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 </head>
 <body>
-    <div>
+    <div id="father">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
+
+<ins id="ad1" class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-5834553078672615"
      data-ad-slot="5156697025"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
   <div id="app">加载中</div>
+
+  <ins id="ad2" class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5834553078672615" data-ad-slot="5156697025"
+    data-ad-format="auto" data-full-width-responsive="true"></ins>
+
+<script type="text/javascript">
+  try {
+    let father = document.getElementById('father');
+    if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+      let ad = document.getElementById('ad1');
+      father.removeChild(ad);
+    } else {
+      let ad = document.getElementById('ad2');
+      father.removeChild(ad);
+    }
+  } catch (e) { }
+</script>
+
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 </div>
 
